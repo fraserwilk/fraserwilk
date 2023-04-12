@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fraserwilk
 - 👀 I’m interested in cycling, skiing and rubber mats
-- 🌱 I’m currently learning PHP for Wordpress
+- 🌱 I’m currently using PHP & Bootstrap 5 for Wordpress theme development
 - 💞️ I’m looking to collaborate on web design & development
 - 📫 How to reach me fraser@truweb.com.au
 
